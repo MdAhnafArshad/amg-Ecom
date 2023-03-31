@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    background-color: black;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header a{
+    text-decoration: none;
+    margin-left: 20px;
+    color: aliceblue;
+}
+
+.header a:hover{
+    color: wheat;
+}
